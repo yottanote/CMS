@@ -1,0 +1,3 @@
+order deny,allow
+deny from all
+ErrorDocument 403 http://www.yottanote.com/index.html
